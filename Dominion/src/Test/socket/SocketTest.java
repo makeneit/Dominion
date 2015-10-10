@@ -17,6 +17,7 @@ public class SocketTest {
 			sarver.close();
 		} catch (Exception e) {
 			e.printStackTrace();
+			System.out.println();
 		}
 	}
 }
